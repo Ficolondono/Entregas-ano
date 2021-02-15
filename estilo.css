@@ -1,0 +1,152 @@
+.fede{
+	position: absolute;
+	margin-top: -5%;
+	margin-left: -2%;
+}
+body{
+	background-color: #F9FFFC;
+	}
+.perfil{
+	margin-top: -15px;
+	margin-left: 100px;
+	height: 30px;
+	width: 30px;
+}
+.texto{
+	margin-top: 55px;
+	margin-left: 450px;
+	text-align: center;
+	font-family: Aharoni;
+}
+.cuerpo{
+	margin-top: 150px;
+	text-align: center;
+	font-family: Aharoni;
+	color: #052E02;
+}
+.fin{
+	margin-top: -10px;
+	margin-left: -2%;
+}
+#boton{
+	margin-left: 320px;
+}
+ul,ol{
+      list-style: none;
+      }
+.boto li a{
+        background-color: #47C686;
+        color: black;
+        text-decoration: none;
+        border-radius:10px 30px 10px 30px;
+        float:left;
+        display: block;
+        right: 100px;
+        top: 100px;
+    }
+.boto li a:hover{
+        background-color: #85CEF3;
+        }
+ .boto li ul {
+        display: none;
+        position: absolute;
+        min-width: 1385px;
+        margin-top: 189px;
+        margin-left: -285px;
+          }
+
+.boto li:hover>ul{
+  display: block;
+}
+
+.boto li ul li {
+  position: relative;
+}
+.nav > li {
+
+        float:top;
+
+          }
+.Proximamente{
+	color: #052E02;
+	font-family: Aharoni;
+}
+.Titulo{
+	color: #052E02;
+	font-family: Aharoni;
+}
+.excel{
+	margin-left: 270px;
+	z-index: 20;
+	position: absolute;
+}
+.palaex{
+	margin-left: 530px;
+	z-index: 1;
+	margin-top: 66px;
+}
+.Teoriaexcel{
+	color: #052E02;
+	font-family: Aharoni;
+	text-align: center;
+}
+.Titulofunciones {
+	text-align-last: center;
+}
+.imgsum:hover{
+     background-image: url(respuestasuma.png);
+     width: 530px;
+     height: 500px;
+     text-shadow: transparent;
+	 color: transparent;
+	 top:-500px; 
+	 left:-530px;
+	}
+.enlace{
+	text-decoration: none;
+	list-style: none;
+	text-align: center;
+	font-family: Aharoni;
+	font-size: 20px;
+	border-radius:10px 50px 10px 50px;
+	background-color: #87F0B3;
+	color: #052E02;
+	display: block;
+	width: 420px;
+	height: 30px;
+	align-content: center;
+}
+.enlaces{
+	text-decoration: none;
+	list-style: none;
+	text-align: center;
+	font-family: Aharoni;
+	font-size: 20px;
+	border-radius:10px 50px 10px 50px;
+	background-color: #87F0B3;
+	color: #052E02;
+	display: block;
+	width: 1020px;
+	height: 30px;
+	align-content: center;
+}
+.Titulo2{
+	color: #052E02;
+	font-family: Aharoni;
+	text-align: center;
+	width: 680px;
+	height:50px;
+	background-color: #87F0B3;
+}
+.Titulo3{
+	color: #052E02;
+	font-family: Aharoni;
+	text-align: center;
+	background-color: #6AF96E;
+	width: 680px;
+	height: 148px;
+}
+.Titulo3:active{
+	background-color: #238304;
+
+}
